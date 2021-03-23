@@ -1,7 +1,7 @@
 '''
-질문은 
-https://discord.gg/sBUXRGc
-봉순#1234
+질문은
+https://discord.gg/nrjzSjmESt
+LUCK#7777
 '''
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
